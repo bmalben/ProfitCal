@@ -12,7 +12,7 @@
     box-shadow: 2px 3px 4px #f2f2f2;
 }
 .App{
-    background: url("https://i.pinimg.com/originals/ee/00/c0/ee00c05d0f13ed0592a94ab4d619846c.png");
+    background: url("/public/bgimg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
