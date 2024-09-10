@@ -68,4 +68,24 @@
     cursor:grab;
 }
 
+/* Default styles */
+.container {
+    padding: 20px;
+    /* font-size: 16px; */
+  }
   
+  /* Media query for devices with width 768px and above (like tablets and larger screens) */
+  @media (min-width: 768px) {
+    .container {
+      padding: 40px;
+      /* font-size: 18px; */
+    }
+  }
+  
+  /* Media query for devices with width 1024px and above (like larger desktops) */
+  @media (min-width: 1024px){
+    .container {
+      padding: 60px;
+      /* font-size: 20px; */
+    }
+  }
