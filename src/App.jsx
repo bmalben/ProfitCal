@@ -97,7 +97,7 @@ useEffect(() => {
         {/* <label htmlFor="">You Saved</label>
         <h5 style={{textAlign:'center'}}>{save}</h5> */}
         {save&&(
-              <label style={{color:'white'}}>Final Amount : {save}</label>
+              <label style={{color:'white'}}>You Saved : {save}</label>
             )}
        </div>
       </div>
